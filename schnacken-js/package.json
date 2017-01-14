@@ -1,0 +1,10 @@
+{
+    "name": "schnacken-js",
+    "version": "0.0.0",
+    "description": "Schnacken JavaScript client",
+    "author": "Olle Törnström",
+    "license": "MIT",
+    "scripts": {
+      "build": "echo 'Building...'"
+    }
+}
